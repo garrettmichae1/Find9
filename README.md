@@ -1,8 +1,8 @@
-# Find 9 — iOS App
+# Find 9 iOS App
 
 Find 9 is an infinite logic puzzle for iPhone and iPad where every level is solvable by design.
 
-There are no timers, no luck, and no distractions — just pure problem-solving and optimization.
+There are no timers, no luck, and no distractions, just pure problem-solving and optimization.
 
 ## Support
 
